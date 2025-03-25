@@ -79,7 +79,7 @@ def main():
     restaurant.add_table(Table(3, 2))
 
     #Try to add reservations
-    restaurant.add_reservation("ilyas", 4, 1, 3)
+   
     restaurant.add_reservation("louiza", 6, 2, 4)
     restaurant.add_reservation("imane", 4, 3, 5)
     restaurant.add_reservation("sara", 4, 1, 3)
